@@ -1,0 +1,25 @@
+#block {
+    background-color: brown;
+}
+
+#test {
+    with: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.hide{
+    display: flex;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+
+
+.show{
+    display: flex;
+    background-color: rgb(226, 43, 134);
+    width: 100px;
+    height: 100px;
+}
+
